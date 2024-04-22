@@ -4,6 +4,6 @@
 
   <p>Para ejecutar el sistema, debes poner:</p>
   
-  Hola Hermanos
+  Hola Mundial 2024
 
 </ol>
