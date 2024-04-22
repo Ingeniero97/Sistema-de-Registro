@@ -1,1 +1,1 @@
-console.log("Ejecutando el sistema de registro");
+console.log("Ejecutando el sistema");
