@@ -3,9 +3,9 @@
 <ol type="1">
   
   <li>Estado del proyecto: En construción.</li>
-  
-  <p>Para ejecutar el sistema, debes poner 201:</p>
-  
+    
 </ol>
+
+<p>Para ejecutar el sistema, debes poner:</p>
 
  ```npm install react```
