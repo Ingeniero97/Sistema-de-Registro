@@ -4,6 +4,6 @@
 
   <p>Para ejecutar el sistema, debes poner:</p>
   
-  Hola Mundo
+  Hola Hermanos
 
 </ol>
