@@ -4,6 +4,5 @@
 
   <p>Para ejecutar el sistema, debes poner:</p>
   
-  Hola Mundial 2024
-
+  ```npm install react´´´
 </ol>
