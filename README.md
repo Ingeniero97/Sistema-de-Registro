@@ -3,6 +3,6 @@
   <li>Estado del proyecto: En construción.</li>
 
   <p>Para ejecutar el sistema, debes poner:</p>
-  
-  ```npm install react´´´
 </ol>
+
+ ```npm install react´´´
